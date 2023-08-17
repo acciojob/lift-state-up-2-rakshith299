@@ -1,1 +1,7 @@
+.parent-div{
+    background-color: greenyellow;
+}
 
+.child-div{
+    background-color: brown;
+}
