@@ -9,7 +9,7 @@ const Parent = () => {
     const [inputValue, setInputValue] = useState("");
 
     return (
-        <div className="parent-div">
+        <div className="parent">
             <h1>Parent Component</h1>
             <p>{inputValue}</p>
 
